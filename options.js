@@ -22,6 +22,7 @@ var tcDefaults = {
     twitter.com
     imgur.com
     teams.microsoft.com
+    remotedesktop.google.com
   `.replace(regStrip, "")
 };
 
